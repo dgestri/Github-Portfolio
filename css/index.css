@@ -1,0 +1,108 @@
+
+body{
+background-color: #FFF5EC;
+}
+
+a {
+  color:#103c5b;
+}
+.logo {
+  margin-top: 0px;
+  font-family: 'Dela Gothic One', cursive;
+  color: #e87979;
+  padding: 10px;
+  height: 150px;
+
+}
+
+.nav-image{
+  height: 50px;
+  max-height: 50px;
+}
+.nav-item{
+  margin-top: 35px;
+  font-family: 'Dela Gothic One', cursive;
+  color: #e87979; 
+}
+
+.nav-link{
+  align-items: center;
+  font-family: 'Dela Gothic One', cursive;
+  color: #e87979; 
+}
+.nav-link.disabled {
+  color: #103c5b;
+}
+.nav-link:hover { 
+  color: #103c5b }
+
+.dropdown-menu{
+  background-color: transparent;
+  border-color: #e87979;
+}
+
+  .dropdown-item {
+  color: #103c5b;
+}
+.dropdown-item:hover {
+  color: #e87979;
+  background-color: transparent;
+}
+.card {
+  margin: 0 auto;
+  font-family: 'Dela Gothic One', cursive;
+}
+.jumbotron {
+  background-image: url(../images/kepler.jpg);  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px;
+  height: calc(100vh-25px);
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  font-family: 'Dela Gothic One', cursive;
+  color: #103c5b;
+}
+.jumboCopy {
+  width: 90%;
+  min-width: 500px;
+  max-width: 700px;
+  color: white;
+  text-align: left;
+  color: #103c5b;
+  font-family: 'Dela Gothic One', cursive;
+}
+
+.card {
+  background-color: #FFF5EC;
+  font-family: 'Dela Gothic One', cursive;
+  color: #e87979;
+  border-radius: 0%;
+  border-width: 0pt;
+  border: none;
+  font-size: 9pt;
+  padding: 0px;
+}
+
+h2 {
+  font-family: 'Dela Gothic One', cursive;
+  color: #e87979;
+}
+
+h3 {
+  font-family: 'Dela Gothic One', cursive;
+  color: #e87979;
+}
+.btn-primary {
+  background-color: #e87979;
+  border-color: #e87979;
+
+}
+
+.btn:hover { background-color: #103c5b }
+
+.footer {
+  color: #e87979;
+  font-family: 'Dela Gothic One', cursive;
+  font-size: 8;
+}
